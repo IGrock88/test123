@@ -14,4 +14,4 @@ class hello
 }
 
 
-new hello();
+new hello("Hello. world");
