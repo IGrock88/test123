@@ -13,5 +13,6 @@ class hello
     }
 }
 
+$string = "hello";
 
-new hello("Hello. world");
+new hello($string);
