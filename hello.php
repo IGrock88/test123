@@ -7,9 +7,9 @@
 
 class hello
 {
-    public function __construct()
+    public function __construct($str)
     {
-        echo "hello, world";
+        echo $str;
     }
 }
 
